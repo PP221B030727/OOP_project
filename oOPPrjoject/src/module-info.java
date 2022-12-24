@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nursultanturugeldiev
+ *
+ */
+module appli {
+}
